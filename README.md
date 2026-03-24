@@ -184,7 +184,12 @@ void assert_failed(uint8_t *file, uint32_t line)
 ```
 
 ## OUTPUT
+ON:
+
 ![IOT EXP1 OUTPUT 1](https://github.com/user-attachments/assets/ca8322c0-6dbe-4e24-8dc6-b0a58b350b8e)
+
+OFF:
+
 ![IOT EXP1 OUTPUT 2](https://github.com/user-attachments/assets/c16c757d-bdae-4169-8a47-3af9338885be)
 
 ## Result
